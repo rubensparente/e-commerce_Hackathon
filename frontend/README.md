@@ -57,6 +57,7 @@ Criar uma solução de e-commerce completa que prioriza acessibilidade, experiê
 - ✅ **Gerenciamento de categorias** - CRUD completo
 - ✅ **Gerenciamento de Administradores** - CRUD completo
 - ✅ **Gerenciamento de Clientes** - CRUD completo
+- ✅ **Gerenciamento de Ofertas** - CRUD completo
 - ✅ **Gerenciamento de pedidos** - Acompanhamento e atualização de status
 
 ### 🎯 Funcionalidades de Destaque
